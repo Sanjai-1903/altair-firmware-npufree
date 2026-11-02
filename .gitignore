@@ -1,0 +1,8 @@
+# Cross-build output
+build/
+
+# Host harness output
+host/build/
+
+# macOS
+.DS_Store
